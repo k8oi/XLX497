@@ -20,6 +20,11 @@ XLX497 Service Documentation &amp; Client Configurations
 ### YSF
   - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Digital Group (**DG**) you wish to connect
 #### Pi-Star
-1. 
+1. Log on the Pi-Star Admin Screen
+2. Within the "YSF Link Manager" Section
+    1. Reflector: Select **YSF22102 - XLX497 - XLXreflector**
+    2. Ensure the **Link** option is selected
+    3. Click \<Request Change\>
 #### YSF Radio
-1. 
+1. Change the DG-ID TX to the **DG** you wish to connect.
+2. Key up and you're connected to the **DG**
