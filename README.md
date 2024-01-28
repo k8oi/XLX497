@@ -6,6 +6,7 @@ XLX497 Service Documentation &amp; Client Configurations
 1.
 #### DMR Programming/CodePlug
 1.
+---
 ### D-Star
   - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which (**MODULE**) you wish to connect
 #### Pi-Star
@@ -17,6 +18,7 @@ XLX497 Service Documentation &amp; Client Configurations
     4. Click \<Request Change\>
 #### D-Star Radio
 1. Ensure the URCALL field contains **CQCQCQ**
+---
 ### YSF
   - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Digital Group (**DG**) you wish to connect
 #### Pi-Star
