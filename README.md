@@ -18,6 +18,7 @@ XLX497 Service Documentation &amp; Client Configurations
     4. Click \<Request Change\>
 #### D-Star Radio
 1. Ensure the URCALL field contains **CQCQCQ**
+2. Key up and say hello.
 ---
 ### YSF
   - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Digital Group (**DG**) you wish to connect
@@ -28,5 +29,6 @@ XLX497 Service Documentation &amp; Client Configurations
     2. Ensure the **Link** option is selected
     3. Click \<Request Change\>
 #### YSF Radio
-1. Change the DG-ID TX to the **DG** you wish to connect.
-2. Key up and you're connected to the **DG**
+1. Change the **DG-ID TX** to the **DG** you wish to connect.
+2. Ensure the **DG-ID RX** is set to 0 (zero).
+3. Key up and you're connected to the **DG**
