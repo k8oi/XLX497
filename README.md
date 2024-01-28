@@ -1,7 +1,7 @@
 # XLX497
 XLX497 Service Documentation &amp; Client Configurations
 ### D-Star
-  - Look at the (XLX497 Reflector)[http://xlx497.k8oi.net/index.php?show=modules} and decide which MODULE you wish to connect
+  - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which MODULE you wish to connect
 #### Pi-Star
 1. Log on the Pi-Star Admin Screen
 2. Within the "D-Star Link Manager" Section
