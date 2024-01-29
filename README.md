@@ -8,13 +8,14 @@
 1.
 #### DMR Programming/CodePlug
 1. Modify your codeplug to include the following 5 Contacts
-|Name|CallID|CallType|
+
+| Name | CallID | CallType |
 | ---------- | ------- | :---: |
-|XLX497 CQ|6|Group|
-|XLX497 A|64001|Private|
-|XLX497 B|64002|Private|
-|XLX497 C|64003|Private|
-|XLX497 D|64004|Private|
+| XLX497 CQ | 6 | Group |
+| XLX497 A | 64001 | Private |
+| XLX497 B | 64002 | Private |
+| XLX497 C | 64003 | Private |
+| XLX497 D | 64004 | Private |
 
 ![image](https://github.com/k8oi/XLX497/assets/42382915/13019766-7efa-409c-9d25-8e1f62d98c2f)
 
