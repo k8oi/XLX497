@@ -5,7 +5,19 @@
 ### DMR
   - Look at the [XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules) and decide which Talk Group **TG** (4001, 4002, 4003, 4004) you wish to connect
 #### Pi-Star
-1.
+1. Log on the Pi-Star Configuration Screen
+2. Within the "DMR Configuration" Section
+![DMR Pi-Star Configuration](https://github.com/k8oi/XLX497/blob/main/XLX497%20DMR%20Pi-Star%20Configuration%20Settings.png)
+3. Set the following:
+  - DMR Master: DMRGateway
+  - XLX Master: XLX_497
+  - XLX Startup Module: A
+  - XLX Master Enable: On/Enabled
+  - DMR Color Code: 1
+  - DMR EmbeddedLCOnly: On/Enabled
+  - DMR DumpTAData: On/Enabled
+4. Click "Apply Changes"
+
 #### DMR Programming/CodePlug
 1. Modify ayour codeplug to include the following 5 Contacts
 
