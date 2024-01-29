@@ -33,5 +33,5 @@ XLX497 Service Documentation &amp; Client Configurations
 #### YSF Radio
 1. Change the **DG-ID TX** to the **DG** you wish to connect.
 2. Ensure the **DG-ID RX** is set to 0 (zero).
-3. ![YSF Radio DG-ID]( )
+3. ![YSF Radio DG-ID](https://github.com/k8oi/XLX497/blob/main/YSF%20Radio%20-%20Set%20DG-ID%20TX.png)
 4. Key up and you're connected to the **DG**
