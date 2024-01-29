@@ -1,4 +1,5 @@
 # XLX497
+**Purpose:** Provide a basic linking process from a Pi-Star to the XLX497 Reflector for each digital radio type: DMR/D-Star/YSF
 ### XLX497 Module List
 ![XLX497 Module List](https://github.com/k8oi/XLX497/blob/main/XLX497%20Module%20List%20Screenshot.png)
 ---
