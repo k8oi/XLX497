@@ -17,7 +17,7 @@
 | XLX497 C | 64003 | Private | 4003 |
 | XLX497 D | 64004 | Private | 4004 |
 
-1. Program your radio with your updated code plug.
+2. Program your radio with your updated code plug.
 #### Linking & Calling CQ
 1. Select the Module you wish to connect on your radio: Example XLX497 A would be Module 4001
 2. Key the radio - this "links" the Pi-Star to the Module
