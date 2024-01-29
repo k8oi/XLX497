@@ -7,18 +7,23 @@
 #### Pi-Star
 1.
 #### DMR Programming/CodePlug
-1. Modify your codeplug to include the following 5 Contacts
+1. Modify ayour codeplug to include the following 5 Contacts
 
-| Name | CallID | CallType |
-| ---------- | ------- | :---: |
-| XLX497 CQ | 6 | Group |
-| XLX497 A | 64001 | Private |
-| XLX497 B | 64002 | Private |
-| XLX497 C | 64003 | Private |
-| XLX497 D | 64004 | Private |
+| Name | CallID | CallType | XLX497 Module Number |
+| ---------- | :-------: | :---: | :---: |
+| XLX497 CQ | 6 | Group | |
+| XLX497 A | 64001 | Private | 4001 |
+| XLX497 B | 64002 | Private | 4002 |
+| XLX497 C | 64003 | Private | 4003 |
+| XLX497 D | 64004 | Private | 4004 |
 
-![image](https://github.com/k8oi/XLX497/assets/42382915/13019766-7efa-409c-9d25-8e1f62d98c2f)
-
+1. Program your radio with your updated code plug.
+#### Linking & Calling CQ
+1. Select the Module you wish to connect on your radio: Example XLX497 A would be Module 4001
+2. Key the radio - this "links" the Pi-Star to the Module
+3. Select the XLX497 CW channel on your radio
+4. Key the radio and call CQ!
+   
 ---
 ### D-Star
   - Look at the [XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules) and decide which **MODULE** (A, B, C, D) you wish to connect
