@@ -1,5 +1,8 @@
 # XLX497
 XLX497 Service Documentation &amp; Client Configurations
+### XLX497 Module List
+![XLX497 Module List](https://github.com/k8oi/XLX497/blob/main/XLX497%20Module%20List%20Screenshot.png)
+---
 ### DMR
   - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Talk Group **TG** (4001, 4002, 4003, 4004) you wish to connect
 #### Pi-Star
