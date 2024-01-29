@@ -1,5 +1,4 @@
 # XLX497
-XLX497 Service Documentation &amp; Client Configurations
 ### XLX497 Module List
 ![XLX497 Module List](https://github.com/k8oi/XLX497/blob/main/XLX497%20Module%20List%20Screenshot.png)
 ---
