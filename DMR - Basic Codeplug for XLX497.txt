@@ -1,0 +1,806 @@
+BasicInformation:
+	Model: DR780
+	FrequencyRange: 400-480
+	LowFrequency: 400.00000
+	HighFrequency: 480.00000
+	LastProgrammedTime: "28-Jan-2024 19:48:21"
+	CpsVersion: 0141
+
+GeneralSettings:
+	RadioName: ABCD
+	RadioID: 1234567
+	IntroScreen: Picture
+	IntroScreenLine1: ""
+	IntroScreenLine2: ""
+	SavePreamble: On
+	SaveModeReceive: On
+	DisableAllTones: Off
+	ChFreeIndicationTone: Off
+	TalkPermitTone: None
+	KeypadTones: Off
+	CallAlertToneDuration: Continue
+	ScanDigitalHangTime: 1000
+	ScanAnalogHangTime: 1000
+	LoneWorkerResponseTime: 1
+	LoneWorkerReminderTime: 10
+	PwAndLockEnable: Off
+	PowerOnPassword: 00000000
+	MonitorType: "Open Squelch"
+	VoxSensitivity: 3
+	TxPreambleDuration: 300
+	RxLowBatteryInterval: 120
+	PcProgPassword: ""
+	RadioProgPassword: 00000000
+	BacklightTime: 10
+	SetKeypadLockTime: Manual
+	DisableAllLeds: Off
+	GroupCallHangTime: 3000
+	PrivateCallHangTime: 4000
+
+MenuItems:
+	HangTime: 10
+	RadioDisable: Off
+	RadioEnable: Off
+	RemoteMonitor: Off
+	RadioCheck: Off
+	ManualDial: On
+	Edit: On
+	CallAlert: On
+	TextMessage: On
+	ToneOrAlert: On
+	Talkaround: On
+	OutgoingRadio: On
+	Answered: On
+	Missed: On
+	EditList: On
+	Scan: On
+	ProgramKey: On
+	Vox: Off
+	Squelch: On
+	LedIndicator: On
+	KeyboardLock: On
+	IntroScreen: On
+	Backlight: On
+	Power: On
+	Gps: Off
+	ProgramRadio: Off
+	DisplayMode: On
+	PasswordAndLock: On
+
+RadioButtons:
+	Button: "Scan On/Off"
+
+RadioButtons:
+	Button: "High/Low Power"
+
+RadioButtons:
+	Button: "Zone +"
+
+RadioButtons:
+	Button: Monitor
+
+ButtonDefinitions:
+	LongPressDuration: 1000
+
+OneTouch:
+	Mode: Digital
+	CallType: "Text Message"
+	DTMF: DTMF-2
+	TextMessage: Hello
+	Encode: =INVALID=
+	Call: "XLX 6"
+
+OneTouch:
+	Mode: Digital
+	CallType: "Text Message"
+	DTMF: DTMF-2
+	TextMessage: Hello
+	Encode: =INVALID=
+	Call: "XLX 6"
+
+OneTouch:
+	Mode: Digital
+	CallType: "Text Message"
+	DTMF: DTMF-2
+	TextMessage: Hello
+	Encode: =INVALID=
+	Call: "XLX 6"
+
+OneTouch:
+	Mode: Digital
+	CallType: "Text Message"
+	DTMF: DTMF-2
+	TextMessage: Hello
+	Encode: =INVALID=
+	Call: "XLX 6"
+
+OneTouch:
+	Mode: Digital
+	CallType: "Text Message"
+	DTMF: DTMF-2
+	TextMessage: Hello
+	Encode: =INVALID=
+	Call: "XLX 6"
+
+OneTouch:
+	Mode: Digital
+	CallType: "Text Message"
+	DTMF: DTMF-2
+	TextMessage: Hello
+	Encode: =INVALID=
+	Call: "XLX 6"
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+NumberKey:
+	Contact: None
+
+TextMessages:
+	TextMessage: Hello
+
+PrivacySettings:
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	EnhancedKey: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+	BasicKey: FFFF
+
+Contacts:
+	Name: "Link Status"
+	CallID: 65000
+	CallType: Private
+	CallReceiveTone: No
+
+Contacts:
+	Name: Unlink
+	CallID: 64000
+	CallType: Private
+	CallReceiveTone: No
+
+Contacts:
+	Name: "VA Statewide"
+	CallID: 3151
+	CallType: Group
+	CallReceiveTone: No
+
+Contacts:
+	Name: "XLX 6"
+	CallID: 6
+	CallType: Group
+	CallReceiveTone: No
+
+Contacts:
+	Name: "XLX A"
+	CallID: 64001
+	CallType: Private
+	CallReceiveTone: No
+
+Contacts:
+	Name: "XLX B"
+	CallID: 64002
+	CallType: Private
+	CallReceiveTone: No
+
+Contacts:
+	Name: "XLX C"
+	CallID: 64003
+	CallType: Private
+	CallReceiveTone: No
+
+Contacts:
+	Name: "XLX D"
+	CallID: 64004
+	CallType: Private
+	CallReceiveTone: No
+
+GroupLists:
+	Name: GroupList1
+	Contact: "XLX 6"
+
+Zones:
+	Name: Pi
+	Channel: "XLX497 CQ"
+	Channel: "Link Status"
+	Channel: UnLink
+	Channel: "VA Statewide"
+	Channel: "XLX A"
+	Channel: "XLX B"
+	Channel: "XLX C"
+	Channel: "XLX D"
+
+Zones:
+	Name: FM
+	Channel: "Simplex FM"
+
+ScanLists:
+	Name: Digital
+	PriorityChannel1: None
+	PriorityChannel2: =INVALID=
+	TxDesignatedChannel: "Last Active Channel"
+	SignallingHoldTime: 500
+	PrioritySampleTime: 2000
+	Channel: "XLX497 CQ"
+	Channel: "VA Statewide"
+
+Channels:
+	Name: "Link Status"
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: None
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: "Link Status"
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: "Simplex FM"
+	RxFrequency: 446.00000
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Analog
+	Bandwidth: 25
+	ScanList: None
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 60
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: None
+	GroupList: None
+	ColorCode: 1
+	RepeaterSlot: 1
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: UnLink
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: None
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: Unlink
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: "VA Statewide"
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: Digital
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: "VA Statewide"
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: "XLX497 CQ"
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: Digital
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: "XLX 6"
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: "XLX A"
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: None
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: "XLX A"
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: "XLX B"
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: None
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: "XLX B"
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: "XLX C"
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: None
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: "XLX C"
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+Channels:
+	Name: "XLX D"
+	RxFrequency: 438.21250
+	TxFrequencyOffset: +0.00000
+	ChannelMode: Digital
+	Bandwidth: 12.5
+	ScanList: None
+	Squelch: Normal
+	RxRefFrequency: Low
+	TxRefFrequency: Low
+	Tot: 180
+	TotRekeyDelay: 0
+	Power: Low
+	AdmitCriteria: Always
+	Autoscan: Off
+	RxOnly: Off
+	LoneWorker: Off
+	Vox: Off
+	AllowTalkaround: Off
+	PrivateCallConfirmed: Off
+	EmergencyAlarmAck: Off
+	DataCallConfirmed: Off
+	CompressedUdpDataHeader: On
+	Talkaround: Off
+	EmergencySystem: None
+	ContactName: "XLX D"
+	GroupList: GroupList1
+	ColorCode: 1
+	RepeaterSlot: 2
+	Privacy: None
+	PrivacyNumber: 1
+	DisplayPTTID: Off
+	CtcssEncode: None
+	TxSignallingSystem: Off
+	QtReverse: 180
+	ReverseBurst: On
+	CtcssDecode: None
+	RxSignallingSystem: Off
+	Decode1: Off
+	Decode2: Off
+	Decode3: Off
+	Decode4: Off
+	Decode5: Off
+	Decode6: Off
+	Decode7: Off
+	Decode8: Off
+	ReceiveGPSInfo: Off
+	SendGPSInfo: Off
+	GPSSystem: None
+	InCallCriteria: Always
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
+
+GPSSystems:
+	GPSRevertChannel: "Current Channel"
+	GPSDefaultReportInterval: Off
+	DestinationID: None
