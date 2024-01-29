@@ -1,14 +1,14 @@
 # XLX497
 XLX497 Service Documentation &amp; Client Configurations
 ### DMR
-  - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Talk Group (**TG**) you wish to connect
+  - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Talk Group **TG** (4001, 4002, 4003, 4004) you wish to connect
 #### Pi-Star
 1.
 #### DMR Programming/CodePlug
 1.
 ---
 ### D-Star
-  - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which (**MODULE**) you wish to connect
+  - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which **MODULE** (A, B, C, D) you wish to connect
 #### Pi-Star
 1. Log on the Pi-Star Admin Screen
 2. Within the "D-Star Link Manager" Section
@@ -21,7 +21,7 @@ XLX497 Service Documentation &amp; Client Configurations
 2. Key up and say hello.
 ---
 ### YSF
-  - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Digital Group (**DG**) you wish to connect
+  - Look at the [XLX497 Reflector](http://xlx497.k8oi.net/index.php?show=modules) and decide which Digital Group **DG** (10, 11, 12, 13) you wish to connect
 #### Pi-Star
 1. Log on the Pi-Star Admin Screen
 2. Within the "YSF Link Manager" Section
