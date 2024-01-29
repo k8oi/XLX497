@@ -33,7 +33,7 @@
 #### Linking & Calling CQ
 1. Select the Module you wish to connect on your radio: Example XLX497 A would be Module 4001
 2. Key the radio - this "links" the Pi-Star to the Module
-3. Select the XLX497 CW channel on your radio
+3. Select the XLX497 CQ channel on your radio
 4. Key the radio and call CQ!
    
 ---
