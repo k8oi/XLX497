@@ -12,6 +12,7 @@ XLX497 Service Documentation &amp; Client Configurations
 #### Pi-Star
 1. Log on the Pi-Star Admin Screen
 2. Within the "D-Star Link Manager" Section
+   ![Pi-Star](https://github.com/k8oi/XLX497/blob/main/XLX497%20D-Star%20Pi-Star%20Link%20Screenshot.png)
     1. Reflector: Select **XLX497**
     2. Module: Select the XLX module you wish to connect
     3. Ensure the **Link** option is selected
