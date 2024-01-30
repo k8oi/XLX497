@@ -4,14 +4,14 @@
 
 [Current XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules)
 
-![XLX497 Module List](https://github.com/k8oi/XLX497/blob/main/XLX497%20Module%20List%20Screenshot.png)
+![XLX497 Module List](https://github.com/k8oi/XLX497/blob/main/Pi-Star_Images/XLX497%20Module%20List%20Screenshot.png)
 ---
 ### DMR
   - Look at the [XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules) and decide which Talk Group **TG** (4001, 4002, 4003, 4004) you wish to connect
 #### Pi-Star
 1. Log on the Pi-Star Configuration Screen
 2. Within the "DMR Configuration" Section
-![DMR Pi-Star Configuration](https://github.com/k8oi/XLX497/blob/main/XLX497%20DMR%20Pi-Star%20Configuration%20Settings.png)
+![DMR Pi-Star Configuration](https://github.com/k8oi/XLX497/blob/main/Pi-Star_Images/XLX497%20DMR%20Pi-Star%20Configuration%20Settings.png)
 3. Set the following:
   - DMR Master: DMRGateway
   - XLX Master: XLX_497
@@ -46,7 +46,7 @@
 #### Pi-Star
 1. Log on the Pi-Star Admin Screen
 2. Within the "D-Star Link Manager" Section
-![D-Star Pi-Star](https://github.com/k8oi/XLX497/blob/main/XLX497%20D-Star%20Pi-Star%20Link%20Screenshot.png)
+![D-Star Pi-Star](https://github.com/k8oi/XLX497/blob/main/Pi-Star_Images/XLX497%20D-Star%20Pi-Star%20Link%20Screenshot.png)
     1. Reflector: Select **XLX497**
     2. Module: Select the XLX module you wish to connect
     3. Ensure the **Link** option is selected
@@ -60,12 +60,12 @@
 #### Pi-Star
 1. Log on the Pi-Star Admin Screen
 2. Within the "YSF Link Manager" Section
-![YSF Pi-Star](https://github.com/k8oi/XLX497/blob/main/XLX497%20YSF%20Pi-Star%20Link%20Screen%20Configuration.png)
+![YSF Pi-Star](https://github.com/k8oi/XLX497/blob/main/Pi-Star_Images/XLX497%20YSF%20Pi-Star%20Link%20Screen%20Configuration.png)
     1. Reflector: Select **YSF22102 - XLX497 - XLXreflector**
     2. Ensure the **Link** option is selected
     3. Click \<Request Change\>
 #### YSF Radio
 1. Change the **DG-ID TX** to the **DG** you wish to connect.
 2. Ensure the **DG-ID RX** is set to 0 (zero).
-![YSF Radio DG-ID](https://github.com/k8oi/XLX497/blob/main/YSF%20Radio%20-%20Set%20DG-ID%20TX.png)
+![YSF Radio DG-ID](https://github.com/k8oi/XLX497/blob/main/Pi-Star_Images/YSF%20Radio%20-%20Set%20DG-ID%20TX.png)
 4. Key up and you're connected to the **DG**
