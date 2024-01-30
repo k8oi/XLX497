@@ -29,13 +29,12 @@
 ### D-Star
   - Look at the [XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules) and decide which **MODULE** (A, B, C, D) you wish to connect
 #### BlueDV
-1. Log on the Pi-Star Admin Screen
-2. Within the "D-Star Link Manager" Section
-![D-Star Pi-Star](https://github.com/k8oi/XLX497/blob/main/Pi-Star_Images/XLX497%20D-Star%20Pi-Star%20Link%20Screenshot.png)
-    1. Reflector: Select **XLX497**
-    2. Module: Select the XLX module you wish to connect
-    3. Ensure the **Link** option is selected
-    4. Click \<Request Change\>
+1. Select the DSTAR box (under Menu)
+2. Select the **XLX** button
+3. Enter **XLX497** in the drop down box
+4. Enter the Module you wish to connect (A, B, C, D)
+
+![BlueDV D-Star](https://github.com/k8oi/XLX497/blob/main/BlueDV_Images/BlueDV%20D-Star%20Link.png)
 
 ---
 ### YSF
