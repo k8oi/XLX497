@@ -33,6 +33,7 @@
 2. Select the **XLX** button
 3. Enter **XLX497** in the drop down box
 4. Enter the Module you wish to connect (A, B, C, D)
+5. Click the **Link** button
 
 ![BlueDV D-Star](https://github.com/k8oi/XLX497/blob/main/BlueDV_Images/BlueDV%20D-Star%20Link.png)
 
