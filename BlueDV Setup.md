@@ -29,7 +29,7 @@
 ### D-Star
   - Look at the [XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules) and decide which **MODULE** (A, B, C, D) you wish to connect
 #### BlueDV
-1. Select the DSTAR box (under Menu)
+1. Select the **DSTAR* box (under Menu)
 2. Select the **XLX** button
 3. Enter **XLX497** in the drop down box
 4. Enter the Module you wish to connect (A, B, C, D)
@@ -37,7 +37,21 @@
 
 ![BlueDV D-Star](https://github.com/k8oi/XLX497/blob/main/BlueDV_Images/BlueDV%20D-Star%20Link.png)
 
+6. You are now able to talk on XLX497 Module A
 ---
 ### YSF
   - Look at the [XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules) and decide which Digital Group **DG** (10, 11, 12, 13) you wish to connect
-#### Pi-Star
+#### BlueDV
+1. Select the **FUSION** box (under Menu)
+2. Select the **XLX** button
+3. Enter **XLX497** in the drop down box
+4. Click the **Link** button
+
+![BlueDV YSF Link](https://github.com/k8oi/XLX497/blob/main/BlueDV_Images/BlueDV%20YSF%20Link.png)
+
+5. Select AMBE tab (if not already selected)
+6. Enter the **DG-ID** you wish to connect (10, 11, 12, 13)
+
+![BlueDV YSG DG-ID](https://github.com/k8oi/XLX497/blob/main/BlueDV_Images/BlueDV%20YSF%20DG-ID.png)
+
+7. You are now able to talk on XLX497 DG-ID 10
