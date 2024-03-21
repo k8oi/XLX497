@@ -29,7 +29,7 @@
 ### D-Star
   - Look at the [XLX497 Reflector Modules List](http://xlx497.k8oi.net/index.php?show=modules) and decide which **MODULE** (A, B, C, D) you wish to connect
 #### BlueDV
-1. Select the **DSTAR**box (under Menu)
+1. Select the **DSTAR** box (under Menu)
 2. Select the **XLX** button
 3. Enter **XLX497** in the drop down box
 4. Enter the Module you wish to connect (A, B, C, D)
