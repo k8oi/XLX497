@@ -23,7 +23,7 @@
 4. Click "Apply Changes"
 
 #### DMR Programming/CodePlug
-1. Modify ayour codeplug to include the following 5 Contacts
+1. Modify your codeplug to include the following 5 Contacts
 
 | Name | CallID | CallType | XLX497 Module Number |
 | ---------- | :-------: | :---: | :---: |
